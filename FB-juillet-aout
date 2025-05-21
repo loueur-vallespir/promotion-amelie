@@ -1,0 +1,87 @@
+<section style="font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+  <h1 style="color: #2e7d32; font-size: 32px;">🌞 Vos vacances d'été au calme, à 30 min de la mer</h1>
+  <h2 style="color: #555;">✅ Moins cher qu'Argelès. Plus reposant qu'un camping.</h2>
+
+  <hr>
+
+  <h3>🏖️ Pourquoi choisir <strong>Amélie-les-Bains</strong> cet été ?</h3>
+  <ul>
+    <li>📍 À <strong>30 minutes</strong> des plages d'Argelès-sur-Mer</li>
+    <li>💶 Locations à partir de <strong>350 €/semaine</strong></li>
+    <li>🧖‍♀️ Accès <strong>thermes & spa dès 29 €</strong></li>
+    <li>🏞️ Randonnées, marchés, villages typiques</li>
+    <li>🚗 Parking gratuit, zéro stress</li>
+  </ul>
+
+  <hr>
+
+  <h3>🛏️ Nos hébergements</h3>
+  <table style="width: 100%; border-collapse: collapse;">
+    <thead>
+      <tr style="background-color: #f0f0f0;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Type</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Capacité</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Prix/semaine</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">Studio centre-ville</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2 pers.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">350 €</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">Appartement montagne</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">4 pers.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">490 €</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>✔️ Cuisine équipée – ✔️ Literie confort – ✔️ Wi-Fi / TV / balcon</p>
+
+  <hr>
+
+  <h3>♨️ Détente thermale (en option)</h3>
+  <ul>
+    <li>Bain thermal + hammam : <strong>29 €</strong></li>
+    <li>Massage + spa : <strong>49 €</strong></li>
+    <li>Formule 3 jours “Relax & Vitalité” : <strong>120 €</strong></li>
+  </ul>
+  <p><strong>Accessible à tous – sans ordonnance</strong></p>
+
+  <hr>
+
+  <h3>📍 Où est Amélie-les-Bains ?</h3>
+  <p>À 30 min d’Argelès, dans le Vallespir, entre rivière, montagnes et soleil ☀️</p>
+  <p><em>Carte Google Maps intégrée ici (via widget ou embed)</em></p>
+
+  <hr>
+
+  <h3>📆 Demandez votre devis gratuit</h3>
+  <form>
+    <label>Nom / Prénom<br><input type="text" style="width: 100%; padding: 8px;" required></label><br><br>
+    <label>Email<br><input type="email" style="width: 100%; padding: 8px;" required></label><br><br>
+    <label>Téléphone<br><input type="tel" style="width: 100%; padding: 8px;"></label><br><br>
+    <label>Dates souhaitées<br><input type="text" style="width: 100%; padding: 8px;"></label><br><br>
+    <label>Nombre de personnes<br><input type="number" style="width: 100%; padding: 8px;"></label><br><br>
+    <label>Souhaitez-vous une formule thermale ?
+      <select style="width: 100%; padding: 8px;">
+        <option>Oui</option>
+        <option>Non</option>
+      </select>
+    </label><br><br>
+    <button type="submit" style="background-color: #2e7d32; color: white; padding: 12px 20px; border: none; border-radius: 6px;">📩 Demander un devis</button>
+  </form>
+
+  <hr>
+
+  <h3>❤️ Ils ont choisi Amélie…</h3>
+  <blockquote>“Vacances au top, plus calmes qu’à la mer, et les soins thermaux sont incroyables !” – <em>Sylvie, Lyon</em></blockquote>
+  <blockquote>“Moitié moins cher qu’à Argelès, et tellement plus reposant.” – <em>Jean-Marc, Toulouse</em></blockquote>
+
+  <hr>
+
+  <p>📞 Une question ? Appelez-nous au <strong>04 XX XX XX XX</strong><br>
+     📧 Ou écrivez-nous : <strong>contact@amelie-thermes.fr</strong></p>
+</section>
